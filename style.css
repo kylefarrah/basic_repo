@@ -1,0 +1,48 @@
+#wrapper{
+	width: 970px;
+	padding: 10px;
+	background-color: #EEEEEE;
+	margin: 0 auto;
+}
+#header{
+	background-color: #DDDDDD;
+	height: 50px;
+	border-radius: 20px;
+	margin-bottom: 25px;
+}
+#navigation{
+	background-color: #DDDDDD;
+	border-radius: 20px;
+	width: 250px;
+	padding: 10px;
+	margin-right: 20px;
+	display: inline-block;
+	color: #2132E7;
+}
+p, ul{
+	margin: 0;
+}
+#content{
+	background-color: #AAAAAA;
+	width: 640px;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 20px;
+	padding: 15px;
+}
+#toptext{
+	padding: 12px;
+}
+#contact{
+	border-radius: 20px;
+	width: 970px;
+	background-color: #DDDDDD;
+	margin-top: 20px;
+}
+.blue{
+	color: #071DD4;
+	text-decoration: underline;
+}
+#content li{
+	margin-bottom: 10px;
+}
